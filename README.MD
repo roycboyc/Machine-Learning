@@ -7,4 +7,10 @@ HW1:
 
 HW2:
 
-1.
+1. Using the Yale Eigenfaces database, we calculated an “average” face, performed a Singular Value Decomposition, found the low-rank approximation, plotted the rank-r approximation error, represented the 2500-dimensional face image using an r-dimensional feature vector and used logistic regression to classify features from the top r vectors.
+
+2. Using Kaggle’s “What’s Cooking” recipe database, we represented each dish by a binary ingredient feature vector, used Naive Bayes Classifier to predict cuisine using recipe ingredients, calculated the Naive Bayes’ accuracy assuming Gaussian and Bernoulli priors, used Logistic Regression to predict cuisine using recipe ingredients, and finally used our Bernoulli-prior Naive Bayes to compete in the Kaggle contest, where we reached 85% accuracy.
+
+HW3:
+
+1. 
