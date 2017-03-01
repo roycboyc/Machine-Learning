@@ -20,4 +20,4 @@ HW3:
 
 HW4:
 
-1.
+We used a random forest algorithm in order to process an image of the Mona Lisa. We then iterated the number of decision trees and size of depth in order to understand how information is represented in random forests. Please see pdf in hw4 folder for extensive review.
